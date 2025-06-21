@@ -11,7 +11,7 @@
     --input-border: #ccc;
 }
 
-/*
+
 @media (prefers-color-scheme: dark) {
     :root {
         --primary-bg: #181a1b;
@@ -29,7 +29,6 @@
         background-color: #1e2329;
     }
 }
-*/
 
 * {
     margin: 0;
