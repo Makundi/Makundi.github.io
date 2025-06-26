@@ -3,3 +3,6 @@ In this project, I style the HTML website structure I created in a different pro
 
 ## How to run the project
 Fire up a browser and go to https://makundi.github.io.
+
+## Project preview
+<img src="images/preview.png">
