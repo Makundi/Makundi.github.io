@@ -5,4 +5,4 @@ In this project, I style the HTML website structure I created in a different pro
 Fire up a browser and go to https://makundi.github.io.
 
 ## Project preview
-<img src="images/preview.png">
+<img src="images/preview1.png">
